@@ -92,7 +92,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\audit\t_audit.cc"/>
+    <ClCompile Include="src\audit\t_audit.cpp"/>
     <ClCompile Include="src\generate\t_as3_generator.cc">
       <Filter>generate</Filter>
     </ClCompile>
