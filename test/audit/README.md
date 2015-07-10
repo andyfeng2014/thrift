@@ -26,6 +26,7 @@ Errors
 * Missing function
 * Missing service
 * Change in service inheritance
+
 Warnings
 * Removing a language namespace declaration
 * Changing a namespace
